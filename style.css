@@ -1,3 +1,11 @@
 .modal {
     background: #c6d0ff7a;
 }
+
+#countryCode {
+    width: 50px;
+}
+
+.hide {
+    display: none;
+}
